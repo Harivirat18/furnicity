@@ -15,6 +15,13 @@
   }
 }
 @media (max-width: 480px) {
+  .background {
+    height: fit-content;
+    padding: 150px 0px;
+  }
+  .background .content {
+    height: fit-content;
+  }
   .background .content > div {
     width: 100%;
     padding: 0px 15px;
