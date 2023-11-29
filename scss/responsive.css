@@ -17,7 +17,7 @@
 @media (max-width: 480px) {
   .background {
     height: fit-content;
-    padding: 150px 0px;
+    padding: 100px 0px;
   }
   .background .content {
     height: fit-content;
